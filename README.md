@@ -1,4 +1,7 @@
-CodeVibe Studio – Generative Portfolio Landing Page
+CodeVibe Studio
+
+Generative Portfolio Landing Page
+
 A bright, typography‑driven, single‑page portfolio website with smooth animations and a focus on generative art and creative code. This project is designed as a style showcase and can be easily reused as a template for personal or studio landing pages.​
 
 Features
